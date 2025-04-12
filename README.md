@@ -53,9 +53,10 @@ print(x)
 
 ## Output:
 ![lu decomposition]()
-![Uploading 5-1.png…]()
-![Uploading 5-2.png…]()
 
+![5-1](https://github.com/user-attachments/assets/e2083e13-5025-4947-b944-2f48069ac43e)
+
+![5-2](https://github.com/user-attachments/assets/bf16b91e-9ed8-4df1-928c-479e8bb5ce40)
 
 
 
